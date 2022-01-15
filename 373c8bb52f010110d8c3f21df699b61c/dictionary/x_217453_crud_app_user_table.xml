@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Custom user table" max_length="40" name="x_217453_crud_app_user_table" type="collection">
+        <element label="Requested Amount" max_length="40" name="u_requested_amount" type="float"/>
+        <element label="isApproved" max_length="40" name="u_is_approved" type="boolean"/>
+        <element label="User" max_length="40" name="u_user" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Role" max_length="40" name="u_role" type="string"/>
+        <element label="Active" max_length="40" name="u_active" type="boolean"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
