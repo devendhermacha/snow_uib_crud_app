@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - Popular Articles">a40bdb7dfa410110716a742d37b942c7</dataset>
+        <order/>
+        <predicate_bundle display_value="Popular articles bundle">2c0bdb7d04410110456faa60a4bf0bc8</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-01-15 15:12:09</sys_created_on>
+        <sys_id>e80bdb7db0410110d028701ec2eb60c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="crud_app" source="x_217453_crud_app">373c8bb52f010110d8c3f21df699b61c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="crud_app">373c8bb52f010110d8c3f21df699b61c</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_e80bdb7db0410110d028701ec2eb60c8</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-01-15 15:12:09</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

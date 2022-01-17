@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="crud_app Config">940bdb7d2f410110d8c3f21df699b6a5</app_config>
+        <description/>
+        <event_mappings>[ {
+  "eventMappingId" : "ckyhjjlkmxaaaaiigddehhvnmcchhwdcj",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "x_217453_crud_app.CANVAS_MODAL#OPENED_RELAY_04ce0b022f494110d8c3f21df699b6d3",
+  "sourceEventCorrelationId" : null,
+  "sourceEventDefinition" : {
+    "apiName" : "x_217453_crud_app.CANVAS_MODAL#OPENED_RELAY_04ce0b022f494110d8c3f21df699b6d3",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "declarativeAction" : null,
+    "event" : {
+      "apiName" : "sn_canvas_core.CANVAS_MODAL#OPENED",
+      "payload" : {
+        "type" : "MAP_CONTAINER",
+        "container" : {
+          "modalInstanceId" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "modalInstanceId" ]
+            }
+          }
+        }
+      },
+      "sysId" : "cb20fe111bfbe34acdb06b39d3da6462"
+    },
+    "operation" : null,
+    "targetId" : "ckyhjjlkmxaaaaiifddehhvjjjcddkbiiaa",
+    "type" : "EVENT"
+  } ]
+}, {
+  "eventMappingId" : "ckyhjjavveeaaaagguddehhvhhcctiffeeht",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "x_217453_crud_app.CONTENT_UPDATED_RELAY_04ce0b022f494110d8c3f21df699b6d3",
+  "sourceEventCorrelationId" : null,
+  "sourceEventDefinition" : {
+    "apiName" : "x_217453_crud_app.CONTENT_UPDATED_RELAY_04ce0b022f494110d8c3f21df699b6d3",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "declarativeAction" : null,
+    "event" : {
+      "apiName" : "sn_canvas_core.CONTENT_UPDATED",
+      "payload" : {
+        "type" : "MAP_CONTAINER",
+        "container" : {
+          "params" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "params" ]
+            }
+          }
+        }
+      },
+      "sysId" : "75f3815fb0d9c38bb6df1626a0f284c4"
+    },
+    "operation" : null,
+    "targetId" : "ckyhjjavveeaaaaggtddehhvxddblmeemk",
+    "type" : "EVENT"
+  } ]
+} ]</event_mappings>
+        <macroponent display_value="crud_app">04ce0b022f494110d8c3f21df699b6d3</macroponent>
+        <macroponent_config>{
+  "id" : "",
+  "amount" : "",
+  "number" : "",
+  "email" : "",
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>crud_app default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="crud_app">fbbe8bce2f094110d8c3f21df699b660</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-16 08:57:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>4cce0b022f494110d8c3f21df699b6d6</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>crud_app default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="crud_app" source="x_217453_crud_app">373c8bb52f010110d8c3f21df699b61c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="crud_app">373c8bb52f010110d8c3f21df699b61c</sys_scope>
+        <sys_update_name>sys_ux_screen_4cce0b022f494110d8c3f21df699b6d6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-16 16:09:09</sys_updated_on>
+    </sys_ux_screen>
+</record_update>

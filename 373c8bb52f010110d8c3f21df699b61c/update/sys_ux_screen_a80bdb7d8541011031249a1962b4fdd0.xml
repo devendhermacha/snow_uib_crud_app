@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="crud_app Config">940bdb7d2f410110d8c3f21df699b6a5</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Search Page">ac0bdb7de84101100139320ebec5c2c4</macroponent>
+        <macroponent_config>{
+  "searchContextConfigId" : "",
+  "searchTerm" : "",
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "none",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Search Page Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="Search Page">e40bdb7d4c41011069a6fe7e2f7010c3</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-01-15 15:12:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>a80bdb7d8541011031249a1962b4fdd0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search Page Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="crud_app" source="x_217453_crud_app">373c8bb52f010110d8c3f21df699b61c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="crud_app">373c8bb52f010110d8c3f21df699b61c</sys_scope>
+        <sys_update_name>sys_ux_screen_a80bdb7d8541011031249a1962b4fdd0</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-01-15 15:12:07</sys_updated_on>
+    </sys_ux_screen>
+</record_update>

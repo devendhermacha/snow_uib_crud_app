@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types/>
+        <category>page</category>
+        <component_dependencies/>
+        <composition>[ {
+  "elementId" : "data_row_1",
+  "elementLabel" : "Data row 1",
+  "propertyValues" : {
+    "title" : {
+      "type" : "JSON_LITERAL",
+      "value" : ""
+    },
+    "titleHeadingLevel" : {
+      "type" : "CONTEXT_BINDING",
+      "binding" : {
+        "address" : [ "id" ],
+        "category" : "props"
+      }
+    },
+    "titleStyleVariant" : {
+      "type" : "JSON_LITERAL",
+      "value" : "header-secondary"
+    },
+    "layout" : {
+      "type" : "JSON_LITERAL",
+      "value" : "horizontal"
+    },
+    "data" : {
+      "type" : "JSON_LITERAL",
+      "value" : ""
+    },
+    "cardHeightHorizontal" : {
+      "type" : "JSON_LITERAL",
+      "value" : "sm"
+    },
+    "maxVisibleCardsHorizontal" : {
+      "type" : "JSON_LITERAL",
+      "value" : "4"
+    },
+    "minCardPixelWidth" : {
+      "type" : "JSON_LITERAL",
+      "value" : 254
+    },
+    "dataBrokerIsLoading" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "noDataMessage" : {
+      "type" : "TRANSLATION_LITERAL",
+      "value" : {
+        "message" : "No content to display.",
+        "comment" : ""
+      }
+    },
+    "viewAllLinkLabel" : {
+      "type" : "TRANSLATION_LITERAL",
+      "value" : {
+        "message" : "View All",
+        "comment" : ""
+      }
+    },
+    "noBox" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    },
+    "daClientActionContract" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    }
+  },
+  "eventMappings" : [ ],
+  "slot" : "Main",
+  "definition" : {
+    "id" : "fae56519b74e7995b69ae7cf66e280f9",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : ""
+  },
+  "isNonDestructive" : false,
+  "styles" : { }
+} ]</composition>
+        <da_relay_models/>
+        <data>[ ]</data>
+        <dispatched_events/>
+        <events/>
+        <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings>{ }</internal_event_mappings>
+        <layout>{
+  "default" : {
+    "children" : null,
+    "items" : [{"slotName":"Main","rules":{"flex":"1"},"styles":{"display":"flex","flex-direction":"column"}}],
+    "root" : null,
+    "rules" : {"flex-flow":"row nowrap","align-items":"stretch","min-height":"400px","height":"100%"},
+    "styles" : null,
+    "templateId" : "28bde4cd53431010e6bcddeeff7b12cc",
+    "type" : "flex"
+  }
+}</layout>
+        <macroponent_dependencies/>
+        <name>crud_list_view</name>
+        <props>[ {
+  "name" : "id",
+  "label" : "Id",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : "",
+  "description" : null,
+  "readOnly" : true,
+  "selectable" : false
+}, {
+  "name" : "amount",
+  "label" : "amount",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : "",
+  "description" : null,
+  "readOnly" : true,
+  "selectable" : false
+} ]</props>
+        <required_translations>[ {
+  "message" : "No content to display.",
+  "comment" : ""
+}, {
+  "message" : "View All",
+  "comment" : ""
+} ]</required_translations>
+        <root_component/>
+        <root_component_config>{ }</root_component_config>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties>[ ]</state_properties>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-16 16:23:48</sys_created_on>
+        <sys_id>7c0578da2f818110d8c3f21df699b618</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>crud_list_view</sys_name>
+        <sys_package display_value="crud_app" source="x_217453_crud_app">373c8bb52f010110d8c3f21df699b61c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="crud_app">373c8bb52f010110d8c3f21df699b61c</sys_scope>
+        <sys_update_name>sys_ux_macroponent_7c0578da2f818110d8c3f21df699b618</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-16 16:38:30</sys_updated_on>
+    </sys_ux_macroponent>
+</record_update>

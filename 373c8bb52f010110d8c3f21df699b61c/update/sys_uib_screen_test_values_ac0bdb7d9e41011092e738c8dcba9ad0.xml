@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+  "sysId" : "aeed229047801200e0ef563dbb9a71c2",
+  "table" : "sc_req_item"
+}</macroponent_config>
+        <screen display_value="Record Page(request) Default">6c0bdb7d5b41011067dff18544b47dd0</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-01-15 15:12:08</sys_created_on>
+        <sys_id>ac0bdb7d9e41011092e738c8dcba9ad0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="crud_app" source="x_217453_crud_app">373c8bb52f010110d8c3f21df699b61c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="crud_app">373c8bb52f010110d8c3f21df699b61c</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_ac0bdb7d9e41011092e738c8dcba9ad0</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-01-15 15:12:08</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="a00bdb7d524101107f7fdb6e99e4ecd3" sys_domain="global" table="sysapproval_approver" version="3" view="custom_portal_approval_x_217453_crud_app">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-01-15 15:12:06</sys_created_on>
+            <sys_id>240bdb7da64101104416bb992dac1fd3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="e00bdb7de44101101ccf3fd8d404c5d3">a00bdb7d524101107f7fdb6e99e4ecd3</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2022-01-15 15:12:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysapproval</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-01-15 15:12:06</sys_created_on>
+            <sys_id>640bdb7d59410110c1acfb79520016d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="e00bdb7de44101101ccf3fd8d404c5d3">a00bdb7d524101107f7fdb6e99e4ecd3</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2022-01-15 15:12:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-01-15 15:12:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a00bdb7d524101107f7fdb6e99e4ecd3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="crud_app" source="x_217453_crud_app">373c8bb52f010110d8c3f21df699b61c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="crud_app">373c8bb52f010110d8c3f21df699b61c</sys_scope>
+            <sys_update_name>sys_ui_section_a00bdb7d524101107f7fdb6e99e4ecd3</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2022-01-15 15:12:06</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal (x_217453_crud_app )" name="custom_portal_approval_x_217453_crud_app">e00bdb7de44101101ccf3fd8d404c5d3</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

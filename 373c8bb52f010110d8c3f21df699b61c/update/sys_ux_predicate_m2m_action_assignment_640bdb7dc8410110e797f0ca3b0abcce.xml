@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="approve">600bdb7ddb410110aca09d2eb7ebebc4</declarative_action_assignment>
+        <predicate display_value="My Tasks">e00bdb7d89410110efa3415031152cca</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-01-15 15:12:08</sys_created_on>
+        <sys_id>640bdb7dc8410110e797f0ca3b0abcce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="crud_app" source="x_217453_crud_app">373c8bb52f010110d8c3f21df699b61c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="crud_app">373c8bb52f010110d8c3f21df699b61c</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_640bdb7dc8410110e797f0ca3b0abcce</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-01-15 15:12:08</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>
